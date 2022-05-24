@@ -1,0 +1,33 @@
+[
+    {
+        "key": "left-spacer"
+    },
+    {
+        "key": "1",
+        "name": "Home",
+        "imageUrl": "https://images.unsplash.com/photo-1652381498010-64da15613af9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "key": "2",
+        "name": "Oppo",
+        "imageUrl": "https://images.unsplash.com/photo-1644982652063-1a9b8d24f0f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "key": "3",
+        "name": "Car",
+        "imageUrl": "https://images.unsplash.com/photo-1648737966274-79aa6f89c440?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "key": "4",
+        "name": "Leaves",
+        "imageUrl": "https://images.unsplash.com/photo-1652418365134-7991f0e1744b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "key": "5",
+        "name": "Sun",
+        "imageUrl": "https://images.unsplash.com/photo-1652420933133-0e0e4675523b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzM3x8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "key": "right-spacer"
+    }
+]
